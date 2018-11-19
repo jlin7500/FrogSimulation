@@ -1,4 +1,5 @@
-public class FrogSimulation {
+public class FrogSimulation
+{
     private int goalDistance;
     private int maxHops;
     public FrogSimulation(int dist, int numHops)
